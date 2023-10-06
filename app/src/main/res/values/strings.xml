@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FormularioListaNombres</string>
+    <string name="label_name">Nombre</string>
+    <string name="label_surname">Apellidos</string>
+    <string name="action_save">Guardar</string>
+    <string name="action_clean">Limpiar</string>
+    <string name="action_delete">Eliminar</string>
+    <string name="label_list_name">Nombre</string>
+    <string name="label_list_surname">Apellidos</string>
+</resources>
